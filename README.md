@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/usherwong/getWechatConfParams.svg?branch=master)](https://travis-ci.org/usherwong/getWechatConfParams)
 # 微信分享获取公共参数
 
 ## 功能
