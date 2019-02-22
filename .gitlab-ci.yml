@@ -1,0 +1,5 @@
+before_script:
+  - npm i
+rspec:
+  script:
+    - npm run test
