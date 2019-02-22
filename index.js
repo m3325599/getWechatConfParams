@@ -1,6 +1,6 @@
 (function () {
   'use strict'
-  const mp = require('./map.js')
+  const mp = require('./map_demo.js')
   const map = Object.assign({'investapi.jiedaibao.com.cn': 'wxc9a3c8c03a7fd87c'}, mp)
   /**
    * 根据URI获取Host
